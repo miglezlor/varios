@@ -11,7 +11,7 @@ public class Proyectoalfa {
     public static void main(String[] args) throws InterruptedException {
 
         System.out.println("Hola Mundo");
-        Thread.sleep(2000);
+        Thread.sleep(1400);
         System.out.println("Adiós Mundo");
     }
     
