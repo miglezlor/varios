@@ -12,6 +12,7 @@ public class Proyectoalfa {
 
         System.out.println("Hola Mundo");
         System.out.println("Adiós Mundo");
+        System.out.println("Vuelve pronto");
     }
     
 }
