@@ -2,6 +2,7 @@
 package proyectoalfa;
 import java.util.Scanner;
 
+
 /**
  *
  * @author mgonzalezlorenzo modified by jbarrosgarcia
