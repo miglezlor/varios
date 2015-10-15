@@ -8,7 +8,7 @@ package proyectoalfa;
 public class Proyectoalfa {
 
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException{
 
         System.out.println("Hola Mundo");
         Thread.sleep(1400);
