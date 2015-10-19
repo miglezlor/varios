@@ -13,6 +13,7 @@ public class Proyectoalfa {
         System.out.println("Hola Mundo");
         Thread.sleep(1700);
         System.out.println("Adiós Mundo");
+        System.out.println("Vuelve pronto");
     }
     
 }
